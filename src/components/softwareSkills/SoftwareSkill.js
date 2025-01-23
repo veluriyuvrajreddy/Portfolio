@@ -25,6 +25,7 @@ function SoftwareSkill(props) {
                     style={logo.style}
                     data-inline="false"
                   ></span>
+                  <></>
                 </li>
               </OverlayTrigger>
             );
