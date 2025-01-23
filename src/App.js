@@ -18,7 +18,7 @@ function App() {
     }
   }, []);
 
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "theme");
+  const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
   const useCursor = settings.useCustomCursor;
 
   return (
