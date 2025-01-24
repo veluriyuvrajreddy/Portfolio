@@ -16,8 +16,7 @@ const greeting = {
   full_name: "Yuvraj Reddy",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
-  resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+  resumeLink: "",
   mail: "mailto:veluriyuvrajreddy@gmail.com",
 };
 
